@@ -1,0 +1,86 @@
+{
+    "manifest_version": 3,
+    "name": "Deep Violet Theme Neon",
+    "version": "1.0",
+    "description": "Dark theme with customized deep violet details for Edge.",
+    "theme": {
+        "images": {
+            "theme_ntp_background": "./images/background.png",
+            "theme_toolbar": "./images/tab_active_bg.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "frame_inactive": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ],
+            "tab_text": [
+                215,
+                150,
+                255
+            ],
+            "tab_background_text": [
+                110,
+                80,
+                130
+            ],
+            "bookmark_text": [
+                150,
+                0,
+                255
+            ],
+            "ntp_background": [
+                0,
+                0,
+                0
+            ],
+            "ntp_text": [
+                150,
+                0,
+                255
+            ],
+            "omnibox_background": [
+                0,
+                0,
+                0
+            ],
+            "omnibox_text": [
+                150,
+                0,
+                255
+            ],
+            "toolbar_button_icon": [
+                190,
+                50,
+                255
+            ],
+            "toolbar_text": [
+                215,
+                150,
+                255
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.7693,
+                1.0,
+                0.5
+            ]
+        },
+        "properties": {
+            "ntp_background_repeat": "no-repeat",
+            "ntp_background_alignment": "center",
+            "ntp_logo_alternate": 1
+        }
+    }
+}

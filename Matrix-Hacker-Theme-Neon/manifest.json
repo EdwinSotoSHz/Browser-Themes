@@ -1,0 +1,86 @@
+{
+    "manifest_version": 3,
+    "name": "Matrix Hacker Theme Neon",
+    "version": "1.0",
+    "description": "Dark theme with customized matrix hacker green details for Edge.",
+    "theme": {
+        "images": {
+            "theme_ntp_background": "./images/background.png",
+            "theme_toolbar": "./images/tab_active_bg.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "frame_inactive": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ],
+            "tab_text": [
+                180,
+                255,
+                170
+            ],
+            "tab_background_text": [
+                85,
+                120,
+                80
+            ],
+            "bookmark_text": [
+                50,
+                255,
+                30
+            ],
+            "ntp_background": [
+                0,
+                0,
+                0
+            ],
+            "ntp_text": [
+                50,
+                255,
+                30
+            ],
+            "omnibox_background": [
+                0,
+                0,
+                0
+            ],
+            "omnibox_text": [
+                50,
+                255,
+                30
+            ],
+            "toolbar_button_icon": [
+                0,
+                255,
+                120
+            ],
+            "toolbar_text": [
+                180,
+                255,
+                170
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.3071,
+                1.0,
+                0.5392
+            ]
+        },
+        "properties": {
+            "ntp_background_repeat": "no-repeat",
+            "ntp_background_alignment": "center",
+            "ntp_logo_alternate": 1
+        }
+    }
+}

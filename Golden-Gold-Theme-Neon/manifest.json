@@ -1,0 +1,86 @@
+{
+    "manifest_version": 3,
+    "name": "Golden Gold Theme Neon",
+    "version": "1.0",
+    "description": "Dark theme with customized golden gold details for Edge.",
+    "theme": {
+        "images": {
+            "theme_ntp_background": "./images/background.png",
+            "theme_toolbar": "./images/tab_active_bg.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "frame_inactive": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ],
+            "tab_text": [
+                255,
+                235,
+                150
+            ],
+            "tab_background_text": [
+                120,
+                110,
+                70
+            ],
+            "bookmark_text": [
+                255,
+                210,
+                0
+            ],
+            "ntp_background": [
+                0,
+                0,
+                0
+            ],
+            "ntp_text": [
+                255,
+                210,
+                0
+            ],
+            "omnibox_background": [
+                0,
+                0,
+                0
+            ],
+            "omnibox_text": [
+                255,
+                210,
+                0
+            ],
+            "toolbar_button_icon": [
+                255,
+                190,
+                50
+            ],
+            "toolbar_text": [
+                255,
+                235,
+                150
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.1405,
+                1.0,
+                0.5
+            ]
+        },
+        "properties": {
+            "ntp_background_repeat": "no-repeat",
+            "ntp_background_alignment": "center",
+            "ntp_logo_alternate": 1
+        }
+    }
+}
