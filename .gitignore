@@ -1,2 +1,5 @@
 # Ignore Edge cached theme files
 Cached Theme.pak
+
+# Ignore zip packages
+*.zip
