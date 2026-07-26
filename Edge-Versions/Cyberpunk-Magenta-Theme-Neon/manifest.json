@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Sunset Coral Theme Neon",
+    "name": "Cyberpunk Magenta Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized sunset coral details for Edge.",
+    "description": "Dark theme with customized cyberpunk magenta details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -27,17 +27,17 @@
             "tab_text": [
                 255,
                 180,
-                160
+                220
             ],
             "tab_background_text": [
                 120,
-                90,
-                80
+                70,
+                100
             ],
             "bookmark_text": [
-                255,
-                110,
-                60
+                200,
+                0,
+                150
             ],
             "ntp_background": [
                 0,
@@ -45,9 +45,9 @@
                 0
             ],
             "ntp_text": [
-                255,
-                110,
-                60
+                200,
+                0,
+                150
             ],
             "omnibox_background": [
                 0,
@@ -55,26 +55,26 @@
                 0
             ],
             "omnibox_text": [
-                255,
-                110,
-                60
+                200,
+                0,
+                150
             ],
             "toolbar_button_icon": [
                 255,
                 80,
-                40
+                180
             ],
             "toolbar_text": [
                 255,
                 180,
-                160
+                220
             ]
         },
         "tints": {
             "buttons": [
-                0.0332,
-                1.0,
-                0.6059
+                0.0,
+                0.0,
+                1.0
             ]
         },
         "properties": {

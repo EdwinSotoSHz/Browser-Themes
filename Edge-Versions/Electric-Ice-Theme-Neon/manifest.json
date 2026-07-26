@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Teal Vaporwave Theme Neon",
+    "name": "Electric Ice Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized teal vaporwave details for Edge.",
+    "description": "Dark theme with customized electric ice details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -25,19 +25,19 @@
                 0
             ],
             "tab_text": [
-                150,
-                255,
-                240
+                230,
+                250,
+                255
             ],
             "tab_background_text": [
-                85,
-                120,
-                115
+                100,
+                130,
+                135
             ],
             "bookmark_text": [
-                0,
-                245,
-                215
+                255,
+                255,
+                255
             ],
             "ntp_background": [
                 0,
@@ -45,9 +45,9 @@
                 0
             ],
             "ntp_text": [
-                0,
-                245,
-                215
+                255,
+                255,
+                255
             ],
             "omnibox_background": [
                 0,
@@ -55,26 +55,26 @@
                 0
             ],
             "omnibox_text": [
-                0,
-                245,
-                215
+                255,
+                255,
+                255
             ],
             "toolbar_button_icon": [
-                0,
-                210,
-                180
+                200,
+                235,
+                255
             ],
             "toolbar_text": [
-                150,
-                255,
-                240
+                230,
+                250,
+                255
             ]
         },
         "tints": {
             "buttons": [
-                0.4776,
-                1.0,
-                0.4804
+                0.0,
+                0.0,
+                1.0
             ]
         },
         "properties": {

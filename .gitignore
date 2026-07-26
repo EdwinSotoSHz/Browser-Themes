@@ -3,3 +3,8 @@ Cached Theme.pak
 
 # Ignore zip packages
 *.zip
+
+# Ignore specific promotional and background images
+*promo-tile*
+*logo-gem*
+screenshot.png

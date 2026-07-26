@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Retrofuturismo Amber Theme Neon",
+    "name": "Teal Vaporwave Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized retrofuturistic amber details for Edge.",
+    "description": "Dark theme with customized teal vaporwave details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -25,19 +25,19 @@
                 0
             ],
             "tab_text": [
+                150,
                 255,
-                200,
-                150
+                240
             ],
             "tab_background_text": [
+                85,
                 120,
-                100,
-                80
+                115
             ],
             "bookmark_text": [
-                255,
-                160,
-                20
+                0,
+                245,
+                215
             ],
             "ntp_background": [
                 0,
@@ -45,9 +45,9 @@
                 0
             ],
             "ntp_text": [
-                255,
-                160,
-                20
+                0,
+                245,
+                215
             ],
             "omnibox_background": [
                 0,
@@ -55,26 +55,26 @@
                 0
             ],
             "omnibox_text": [
-                255,
-                160,
-                20
+                0,
+                245,
+                215
             ],
             "toolbar_button_icon": [
-                255,
-                130,
-                30
+                0,
+                210,
+                180
             ],
             "toolbar_text": [
+                150,
                 255,
-                200,
-                150
+                240
             ]
         },
         "tints": {
             "buttons": [
-                0.1,
+                0.4776,
                 1.0,
-                0.5
+                0.4804
             ]
         },
         "properties": {

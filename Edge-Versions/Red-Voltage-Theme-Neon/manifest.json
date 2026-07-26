@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Golden Gold Theme Neon",
+    "name": "Red Voltage Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized golden gold details for Edge.",
+    "description": "Dark theme with customized red voltage details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -26,18 +26,18 @@
             ],
             "tab_text": [
                 255,
-                235,
+                150,
                 150
             ],
             "tab_background_text": [
                 120,
-                110,
-                70
+                80,
+                80
             ],
             "bookmark_text": [
                 255,
-                210,
-                0
+                40,
+                40
             ],
             "ntp_background": [
                 0,
@@ -46,8 +46,8 @@
             ],
             "ntp_text": [
                 255,
-                210,
-                0
+                40,
+                40
             ],
             "omnibox_background": [
                 0,
@@ -56,25 +56,25 @@
             ],
             "omnibox_text": [
                 255,
-                210,
-                0
+                40,
+                40
             ],
             "toolbar_button_icon": [
                 255,
-                190,
-                50
+                60,
+                60
             ],
             "toolbar_text": [
                 255,
-                235,
+                150,
                 150
             ]
         },
         "tints": {
             "buttons": [
-                0.1405,
+                0.0,
                 1.0,
-                0.5
+                0.5588
             ]
         },
         "properties": {

@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Cyberpunk Magenta Theme Neon",
+    "name": "Golden Gold Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized cyberpunk magenta details for Edge.",
+    "description": "Dark theme with customized golden gold details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -26,18 +26,18 @@
             ],
             "tab_text": [
                 255,
-                180,
-                220
+                235,
+                150
             ],
             "tab_background_text": [
                 120,
-                70,
-                100
+                110,
+                70
             ],
             "bookmark_text": [
-                200,
-                0,
-                150
+                255,
+                210,
+                0
             ],
             "ntp_background": [
                 0,
@@ -45,9 +45,9 @@
                 0
             ],
             "ntp_text": [
-                200,
-                0,
-                150
+                255,
+                210,
+                0
             ],
             "omnibox_background": [
                 0,
@@ -55,26 +55,26 @@
                 0
             ],
             "omnibox_text": [
-                200,
-                0,
-                150
+                255,
+                210,
+                0
             ],
             "toolbar_button_icon": [
                 255,
-                80,
-                180
+                190,
+                50
             ],
             "toolbar_text": [
                 255,
-                180,
-                220
+                235,
+                150
             ]
         },
         "tints": {
             "buttons": [
-                0.0,
-                0.0,
-                1.0
+                0.1405,
+                1.0,
+                0.5
             ]
         },
         "properties": {

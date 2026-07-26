@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Dodger Blue & Black Theme",
+    "name": "Retrofuturismo Amber Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized blue details for Edge.",
+    "description": "Dark theme with customized retrofuturistic amber details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -25,19 +25,19 @@
                 0
             ],
             "tab_text": [
-                157,
-                212,
-                245
+                255,
+                200,
+                150
             ],
             "tab_background_text": [
-                70,
-                90,
-                110
+                120,
+                100,
+                80
             ],
             "bookmark_text": [
-                92,
-                138,
-                247
+                255,
+                160,
+                20
             ],
             "ntp_background": [
                 0,
@@ -45,9 +45,9 @@
                 0
             ],
             "ntp_text": [
-                92,
-                138,
-                247
+                255,
+                160,
+                20
             ],
             "omnibox_background": [
                 0,
@@ -55,26 +55,26 @@
                 0
             ],
             "omnibox_text": [
-                92,
-                138,
-                247
+                255,
+                160,
+                20
             ],
             "toolbar_button_icon": [
-                85,
-                192,
-                250
+                255,
+                130,
+                30
             ],
             "toolbar_text": [
-                157,
-                212,
-                245
+                255,
+                200,
+                150
             ]
         },
         "tints": {
             "buttons": [
-                0.0,
-                0.0,
-                1.0
+                0.1,
+                1.0,
+                0.5
             ]
         },
         "properties": {

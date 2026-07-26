@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Matrix Hacker Theme Neon",
+    "name": "Deep Violet Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized matrix hacker green details for Edge.",
+    "description": "Dark theme with customized deep violet details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -25,19 +25,19 @@
                 0
             ],
             "tab_text": [
-                180,
-                255,
-                170
+                215,
+                150,
+                255
             ],
             "tab_background_text": [
-                85,
-                120,
-                80
+                110,
+                80,
+                130
             ],
             "bookmark_text": [
-                50,
-                255,
-                30
+                150,
+                0,
+                255
             ],
             "ntp_background": [
                 0,
@@ -45,9 +45,9 @@
                 0
             ],
             "ntp_text": [
-                50,
-                255,
-                30
+                150,
+                0,
+                255
             ],
             "omnibox_background": [
                 0,
@@ -55,26 +55,26 @@
                 0
             ],
             "omnibox_text": [
-                50,
-                255,
-                30
+                150,
+                0,
+                255
             ],
             "toolbar_button_icon": [
-                0,
-                255,
-                120
+                190,
+                50,
+                255
             ],
             "toolbar_text": [
-                180,
-                255,
-                170
+                215,
+                150,
+                255
             ]
         },
         "tints": {
             "buttons": [
-                0.3071,
+                0.7693,
                 1.0,
-                0.5392
+                0.5
             ]
         },
         "properties": {

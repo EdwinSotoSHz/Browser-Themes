@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Electric Ice Theme Neon",
+    "name": "Sunset Coral Theme Neon (Microsoft Edge)",
     "version": "1.0",
-    "description": "Dark theme with customized electric ice details for Edge.",
+    "description": "Dark theme with customized sunset coral details for Edge.",
     "theme": {
         "images": {
             "theme_ntp_background": "./images/background.png",
@@ -25,19 +25,19 @@
                 0
             ],
             "tab_text": [
-                230,
-                250,
-                255
+                255,
+                180,
+                160
             ],
             "tab_background_text": [
-                100,
-                130,
-                135
+                120,
+                90,
+                80
             ],
             "bookmark_text": [
                 255,
-                255,
-                255
+                110,
+                60
             ],
             "ntp_background": [
                 0,
@@ -46,8 +46,8 @@
             ],
             "ntp_text": [
                 255,
-                255,
-                255
+                110,
+                60
             ],
             "omnibox_background": [
                 0,
@@ -56,25 +56,25 @@
             ],
             "omnibox_text": [
                 255,
-                255,
-                255
+                110,
+                60
             ],
             "toolbar_button_icon": [
-                200,
-                235,
-                255
+                255,
+                80,
+                40
             ],
             "toolbar_text": [
-                230,
-                250,
-                255
+                255,
+                180,
+                160
             ]
         },
         "tints": {
             "buttons": [
-                0.0,
-                0.0,
-                1.0
+                0.0332,
+                1.0,
+                0.6059
             ]
         },
         "properties": {
