@@ -1,0 +1,86 @@
+{
+    "manifest_version": 3,
+    "name": "Silver Steel Theme Neon (Google Chrome)",
+    "version": "1.0",
+    "description": "Dark theme with customized silver steel details for Chrome.",
+    "theme": {
+        "images": {
+            "theme_ntp_background": "./images/background.png",
+            "theme_toolbar": "./images/tab_active_bg.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "frame_inactive": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ],
+            "tab_text": [
+                200,
+                200,
+                200
+            ],
+            "tab_background_text": [
+                120,
+                120,
+                120
+            ],
+            "bookmark_text": [
+                230,
+                230,
+                230
+            ],
+            "ntp_background": [
+                0,
+                0,
+                0
+            ],
+            "ntp_text": [
+                230,
+                230,
+                230
+            ],
+            "omnibox_background": [
+                0,
+                0,
+                0
+            ],
+            "omnibox_text": [
+                230,
+                230,
+                230
+            ],
+            "toolbar_button_icon": [
+                190,
+                190,
+                190
+            ],
+            "toolbar_text": [
+                200,
+                200,
+                200
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.0,
+                0.0,
+                0.8784
+            ]
+        },
+        "properties": {
+            "ntp_background_repeat": "no-repeat",
+            "ntp_background_alignment": "center",
+            "ntp_logo_alternate": 1
+        }
+    }
+}

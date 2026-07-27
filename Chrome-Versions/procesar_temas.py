@@ -113,13 +113,13 @@ def restaurar_imagenes_desde_base(raiz_script):
 
 def procesar_todo():
     raiz_script = os.path.dirname(os.path.abspath(__file__))
-    ruta_edge = os.path.abspath(os.path.join(raiz_script, "..", "assets", "edge.png"))
+    ruta_edge = os.path.abspath(os.path.join(raiz_script, "..", "assets", "chrome.png"))
 
-    print(f"🔍 Logo Edge configurado en: {ruta_edge}\n")
+    print(f"🔍 Logo chrome configurado en: {ruta_edge}\n")
 
     restaurar_imagenes_desde_base(raiz_script)
 
-    print("\n🎨 Aplicando recambio de tono y marca Edge...")
+    print("\n🎨 Aplicando recambio de tono y marca chrome...")
 
     for carpeta_tema, shift in TEMAS_CONFIG.items():
         ruta_images = os.path.join(raiz_script, carpeta_tema, "images")
@@ -138,10 +138,10 @@ def procesar_todo():
                 # 1. Aplicar cambio de tono / desaturación
                 img_modificada = cambiar_tono(img, shift)
 
-                # 2. Superponer marca Edge en logo-gem.png
-                if archivo.lower() == "logo-gem.png":
+                # 2. Superponer marca chrome en logo.png
+                if archivo.lower() == "logo.png":
                     img_modificada = superponer_edge(img_modificada, ruta_edge)
-                    print(f"   ✓ Recolor y marca Edge añadida a: {archivo}")
+                    print(f"   ✓ Recolor y marca chrome añadida a: {archivo}")
                 else:
                     print(f"   ✓ Recolor aplicado a: {archivo}")
 
